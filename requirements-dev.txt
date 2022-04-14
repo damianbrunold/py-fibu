@@ -1,0 +1,9 @@
+flask
+babel
+sqlalchemy
+reportlab
+pg8000
+pytest
+flake8
+autopep8
+
